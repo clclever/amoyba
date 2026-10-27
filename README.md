@@ -23,13 +23,13 @@
 
 <p align="center">
   <a href="https://fb.com/beronica.palavra" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:canacade4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/amoyba" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 ## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,php,laravel,java,kotlin,cs,cpp,python,sqlite,mysql,postgresql,docker,linux,git,figma,ps,ai,blender" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,php,laravel,java,kotlin,cs,cpp,python,sqlite,mysql,postgresql,docker,linux,git,figma,ps,ai,blender" alt="Languages and Tools" />
 </p>
 
 ---
@@ -47,13 +47,16 @@
 
 ### 🚀 Growth Over the Years  
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['2019','2020','2021','2022','2023','2024'],datasets:[{label:'Projects',data:[3,6,10,15,22,28],fill:false,borderColor:'rgb(75,192,192)',tension:0.3}]}}" alt="Developer Growth Line Chart" />
+  <img src="https://quickchart.io/chart?c=%7Btype%3A%27line%27%2Cdata%3A%7Blabels%3A%5B%272019%27%2C%272020%27%2C%272021%27%2C%272022%27%2C%272023%27%2C%272024%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Projects%27%2Cdata%3A%5B3%2C6%2C10%2C15%2C22%2C28%5D%2Cfill%3Afalse%2CborderColor%3A%27rgb%2875%2C192%2C192%29%27%2Ctension%3A0.3%7D%5D%7D%7D" alt="Developer Growth Line Chart" />
 </p>
 
-![Skill Bar Graph](https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27JavaScript%27%2C%27PHP%27%2C%27C%23%27%2C%27Java%27%2C%27Python%27%2C%27C%2B%2B%5D%2Cdatasets%3A%5B%7Blabel%3A%27Experience%20%28Years%29%27%2Cdata%3A%5B4%2C3%2C3%2C2%2C2%2C1%5D%2CbackgroundColor%3A%27rgba%2854%2C162%2C235%2C0.6%29%27%7D%5D%7D%7D)
-### 🥧 Tech Stack Distribution (Pie Chart)  
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Frontend','Backend','Database','DevOps','Design'],datasets:[{data:[35,30,20,10,5],backgroundColor:['#36A2EB','#FF6384','#FFCE56','#4BC0C0','#9966FF']}]} }" alt="Tech Stack Pie Chart" />
+  <img src="https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27JavaScript%27%2C%27PHP%27%2C%27C%23%27%2C%27Java%27%2C%27Python%27%2C%27C%2B%2B%5D%2Cdatasets%3A%5B%7Blabel%3A%27Experience%20%28Years%29%27%2Cdata%3A%5B4%2C3%2C3%2C2%2C2%2C1%5D%2CbackgroundColor%3A%27rgba%2854%2C162%2C235%2C0.6%29%27%7D%5D%7D%7D" alt="Skill Bar Graph" />
+</p>
+
+### 🥧 Tech Stack Distribution  
+<p align="center">
+  <img src="https://quickchart.io/chart?c=%7Btype%3A%27pie%27%2Cdata%3A%7Blabels%3A%5B%27Frontend%27%2C%27Backend%27%2C%27Database%27%2C%27DevOps%27%2C%27Design%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B35%2C30%2C20%2C10%2C5%5D%2CbackgroundColor%3A%5B%27%2336A2EB%27%2C%27%23FF6384%27%2C%27%23FFCE56%27%2C%27%234BC0C0%27%2C%27%239966FF%27%5D%7D%5D%7D" alt="Tech Stack Pie Chart" />
 </p>
 
 ---
@@ -61,20 +64,28 @@
 ## 🌐 My Website  
 
 ### 🔥 Live Preview  
-[![Website Preview](https://api.microlink.io/?url=https://dev.osti.com.ph&overlay.browser=dark&overlay.shadow=true&overlay.background=true&overlay.logo=logo)](https://dev.osti.com.ph)
+<p align="center">
+  <a href="https://clclever.tech" target="_blank">
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Fclclever.tech&embed=screenshot.url" alt="Website Preview" width="700" />
+  </a>
+</p>
 
 ---
 
 ### 🚀 Visit My Site  
-[![Visit Website](https://img.shields.io/badge/Website-dev.osti.com.ph-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dev.osti.com.ph)
+<p align="center">
+  <a href="https://clclever.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Website-clclever.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website" />
+  </a>
+</p>
 
 ---
 
-## 🖼️ Sample Works (from the Web)
+## 🖼️ Sample Works
 
 <p align="center">
-  <img src="https://source.unsplash.com/800x400/?coding,technology" width="400" />
-  <img src="https://source.unsplash.com/800x400/?web,developer" width="400" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=800&auto=format&fit=crop" width="400" alt="Code Sample" />
+  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=800&auto=format&fit=crop" width="400" alt="Developer Setup" />
 </p>
 
 ---
