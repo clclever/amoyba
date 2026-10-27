@@ -43,36 +43,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amoyba&theme=tokyonight&column=6&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="amoyba's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/amoyba?cardType=github&theme=github-dark&preferLogin=false" />  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=amoyba&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amoyba&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoyba&theme=tokyonight" alt="Streak Stats" />
-</p>
-
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amoyba&theme=tokyo-night" alt="Contribution Graph" />
-</p>
-
----
-
 ## 📈 Developer Journey  
 
 ### 🚀 Growth Over the Years  
@@ -80,11 +50,7 @@
   <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['2019','2020','2021','2022','2023','2024'],datasets:[{label:'Projects',data:[3,6,10,15,22,28],fill:false,borderColor:'rgb(75,192,192)',tension:0.3}]}}" alt="Developer Growth Line Chart" />
 </p>
 
-### 📊 Skill Usage (Bar Graph)  
-<p align="center">
-  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['JavaScript','PHP','C#','Java','Python','C++'],datasets:[{label:'Experience (Years)',data:[4,3,3,2,2,1],backgroundColor:'rgba(54,162,235,0.6)'}]}}" alt="Skill Bar Graph" />
-</p>
-
+![Skill Bar Graph](https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27JavaScript%27%2C%27PHP%27%2C%27C%23%27%2C%27Java%27%2C%27Python%27%2C%27C%2B%2B%5D%2Cdatasets%3A%5B%7Blabel%3A%27Experience%20%28Years%29%27%2Cdata%3A%5B4%2C3%2C3%2C2%2C2%2C1%5D%2CbackgroundColor%3A%27rgba%2854%2C162%2C235%2C0.6%29%27%7D%5D%7D%7D)
 ### 🥧 Tech Stack Distribution (Pie Chart)  
 <p align="center">
   <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Frontend','Backend','Database','DevOps','Design'],datasets:[{data:[35,30,20,10,5],backgroundColor:['#36A2EB','#FF6384','#FFCE56','#4BC0C0','#9966FF']}]} }" alt="Tech Stack Pie Chart" />
