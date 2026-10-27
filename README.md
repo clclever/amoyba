@@ -61,14 +61,6 @@
 
 ---
 
-### 🌐 My Website  
-
-<p align="center">
-  <a href="https://clclever.tech" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Visit_My_Website-clclever.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit clclever.tech" />
-  </a>
-</p>
-
 ### 🔥 Live Preview  
 <p align="center">
   <a href="https://clclever.tech" target="_blank">
